@@ -1,0 +1,2 @@
+Informação de um texto que deverá ser escrito
+Segundo teste com texto a ser escrito no console
